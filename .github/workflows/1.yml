@@ -19,4 +19,4 @@ jobs:
         inlineScript: |
           az version
           az account show
-          az storage -h
+
